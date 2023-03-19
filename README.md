@@ -1,5 +1,5 @@
 
-## React Refresher
+## React Refresher Mini Projects
 ## Steps
 
 
